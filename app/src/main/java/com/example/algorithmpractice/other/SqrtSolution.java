@@ -1,5 +1,7 @@
 package com.example.algorithmpractice.other;
 
+
+
 /**
  * author hufei
  * email: hu7fei2@sina.com
@@ -24,5 +26,6 @@ public class SqrtSolution {
 
     public static void main(String[] args) {
         System.out.println(SqrtSolution.mySqrt(6));
+
     }
 }
